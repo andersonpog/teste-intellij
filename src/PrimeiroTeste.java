@@ -1,3 +1,4 @@
+import Matematica.Matematica;
 import model.Cachorro;
 import model.Gato;
 import model.Animal;
@@ -37,6 +38,14 @@ public class PrimeiroTeste {
         for(Animal animal : animais){
             System.out.println(animal);
             System.out.println(animal.falar());
+        }
+
+        int[] nums = {5, 9, 4, 6, 5, 3};
+
+        Matematica.quickSort(nums, 0, nums.length-1);
+
+        for (int num : nums) {
+            System.out.println(num);
         }
 
 

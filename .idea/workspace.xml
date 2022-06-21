@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="Classe abstrata Animal">
+    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="Refatorando Animal">
+      <change afterPath="$PROJECT_DIR$/src/Matematica/Matematica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrimeiroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiroTeste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Gato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,10 @@
       <option name="presentableId" value="Default" />
       <updated>1655842913321</updated>
       <workItem from="1655842919758" duration="5868000" />
-      <workItem from="1655850189840" duration="936000" />
+      <workItem from="1655850189840" duration="1018000" />
+      <workItem from="1655852175129" duration="24000" />
+      <workItem from="1655852204644" duration="26000" />
+      <workItem from="1655852246272" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655845149137</created>
@@ -105,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655848553040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refatorando Animal">
+      <created>1655851203464</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655851203464</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +136,7 @@
     <MESSAGE value="Create Cachorro" />
     <MESSAGE value="Finished Cachorro" />
     <MESSAGE value="Classe abstrata Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Classe abstrata Animal" />
+    <MESSAGE value="Refatorando Animal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refatorando Animal" />
   </component>
 </project>
