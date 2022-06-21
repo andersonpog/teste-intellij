@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Teste_Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimeiroTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Gato.java" afterDir="false" />
+    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="Remove warnings from tostring">
+      <change afterPath="$PROJECT_DIR$/src/model/Cachorro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655842913321</updated>
-      <workItem from="1655842919758" duration="2435000" />
+      <workItem from="1655842919758" duration="2909000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655845149137</created>
@@ -79,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655845149137</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Remove warnings from tostring">
+      <created>1655845598678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655845598678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Remove warnings from tostring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove warnings from tostring" />
   </component>
 </project>
