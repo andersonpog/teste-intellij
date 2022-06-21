@@ -6,6 +6,6 @@ public class PrimeiroTeste {
 
         Gato doido = new Gato("Doido", "Branco", 3);
 
-        System.out.println(doido.toString());
+        System.out.println(doido);
     }
 }
