@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="Create Cachorro">
+    <list default="true" id="003ec22d-9774-4b84-85d8-fdaed95c4340" name="Changes" comment="Finished Cachorro">
+      <change afterPath="$PROJECT_DIR$/src/model/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PrimeiroTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeiroTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Gato.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655842913321</updated>
-      <workItem from="1655842919758" duration="3216000" />
+      <workItem from="1655842919758" duration="5175000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1655845149137</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655845988285</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished Cachorro">
+      <created>1655846325343</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655846325343</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +118,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Remove warnings from tostring" />
     <MESSAGE value="Create Cachorro" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Cachorro" />
+    <MESSAGE value="Finished Cachorro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Cachorro" />
   </component>
 </project>

@@ -1,50 +1,28 @@
 package model;
 
-public class Cachorro {
+public class Cachorro extends Animal{
 
-    private String nome;
-    private String cor;
-    private Integer idade;
 
     public Cachorro() {
     }
 
     public Cachorro(String nome, String cor, Integer idade) {
-        this.nome = nome;
-        this.cor = cor;
-        this.idade = idade;
+        super(nome, cor, idade);
     }
 
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public String getCor() {
-        return cor;
-    }
-
-    public void setCor(String cor) {
-        this.cor = cor;
-    }
-
-    public Integer getIdade() {
-        return idade;
-    }
-
-    public void setIdade(Integer idade) {
-        this.idade = idade;
+    @Override
+    public String falar() {
+        return "Au au";
     }
 
     @Override
     public String toString() {
         return "Cachorro{" +
-                "nome='" + nome + '\'' +
-                ", cor='" + cor + '\'' +
-                ", idade='" + idade + '\'' +
+                "nome='" + super.getNome() + '\'' +
+                ", cor='" + super.getCor() + '\'' +
+                ", idade='" + super.getIdade() + '\'' +
                 '}';
     }
+
+
 }
