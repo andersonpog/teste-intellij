@@ -39,5 +39,14 @@ public abstract class Animal {
         this.idade = idade;
     }
 
+    @Override
+    public String toString() {
+        return this.getClass().getSimpleName()+"{" +
+                "nome='" + nome + '\'' +
+                ", cor='" + cor + '\'' +
+                ", idade=" + idade +
+                '}';
+    }
+
     public abstract String falar();
 }

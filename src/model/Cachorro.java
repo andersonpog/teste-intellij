@@ -15,14 +15,6 @@ public class Cachorro extends Animal{
         return "Au au";
     }
 
-    @Override
-    public String toString() {
-        return "Cachorro{" +
-                "nome='" + super.getNome() + '\'' +
-                ", cor='" + super.getCor() + '\'' +
-                ", idade='" + super.getIdade() + '\'' +
-                '}';
-    }
 
 
 }
